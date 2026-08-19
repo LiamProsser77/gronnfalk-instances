@@ -226,7 +226,7 @@ Additional Settings:
 
 <p>
   Public GronnFalk instances are independently operated.
-  Response time, JSON support, and uptime may vary between instances.
+  Response time, JSON support, and uptime may vary between instances. Sometimes Instances may have down time or results might not work, GronnFalk is new and evolving.
 </p>
 
 <table>
