@@ -123,7 +123,7 @@ Additional Settings:
       </td>
       <td>~4 sec</td>
       <td>Yes</td>
-      <td>97%</td>
+      <td>70%</td>
       <td>Online</td>
     </tr>
   </tbody>
