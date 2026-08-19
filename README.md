@@ -100,12 +100,30 @@ Additional Settings:
       <th>Status</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
-      <td><a href="https://liamprosser77.github.io/gronnfalk/">https://liamprosser77.github.io/gronnfalk/</a></td>
+      <td>
+        <a href="https://liamprosser77.github.io/gronnfalk/">
+          https://liamprosser77.github.io/gronnfalk/
+        </a>
+      </td>
       <td>~3 sec</td>
       <td>Yes</td>
       <td>99.9%</td>
+      <td>Online</td>
+    </tr>
+
+    
+    
+  <td>
+        <a href="https://gronnfalk-space.onrender.com/">
+          https://gronnfalk-space.onrender.com/
+        </a>
+      </td>
+      <td>~4 sec</td>
+      <td>Yes</td>
+      <td>97%</td>
       <td>Online</td>
     </tr>
   </tbody>
