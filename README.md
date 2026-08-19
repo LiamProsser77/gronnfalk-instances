@@ -19,8 +19,8 @@
 <ul>
   <li><strong>Instance 1</strong> — USED</li>
   <li><strong>Instance 2</strong> — OPEN</li>
-  <li><strong>Instance 3</strong> — OPEN</li>
-  <li><strong>Instance 4</strong> — OPEN</li>
+  <li><strong>Instance 3</strong> — Files not added yet</li>
+  <li><strong>Instance 4</strong> — Files not added yet</li>
 </ul>
 
 <p>
@@ -75,37 +75,37 @@
   <li>
     <code>Dockerfile.render.2</code> —
     Docker configuration for Instance 3 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 
   <li>
     <code>render-server.2.js</code> —
     Server for Instance 3 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 
   <li>
     <code>render.index.2.html</code> —
     Frontend for Instance 3 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 
   <li>
     <code>Dockerfile.render.3</code> —
     Docker configuration for Instance 4 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 
   <li>
     <code>render-server.3.js</code> —
     Server for Instance 4 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 
   <li>
     <code>render.index.3.html</code> —
     Frontend for Instance 4 —
-    <strong>OPEN</strong>
+    <strong>Files not added yet</strong>
   </li>
 </ul>
 
