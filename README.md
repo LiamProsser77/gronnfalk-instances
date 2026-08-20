@@ -247,9 +247,9 @@ Additional Settings:
           https://liamprosser77.github.io/gronnfalk/
         </a>
       </td>
-      <td>~3 sec</td>
+      <td>~1.23 sec</td>
       <td>Yes</td>
-      <td>99.9%</td>
+      <td>100%</td>
       <td>Online</td>
     </tr>
 
