@@ -257,13 +257,13 @@ Additional Settings:
     
   <td>
         <a href="https://gronnfalk-space.onrender.com/">
-          https://gronnfalk-space.onrender.com/
+          https://gronnfalk-space.onrender.com/index.html
         </a>
       </td>
       <td>~4 sec</td>
       <td>Yes</td>
       <td>70%</td>
-      <td>Online - GronnFalk v0.0.7</td>
+      <td>Online - GronnFalk v0.5.0</td>
     </tr>
   </tbody>
 </table>
