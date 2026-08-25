@@ -256,7 +256,7 @@ Additional Settings:
     
     
   <td>
-        <a href="https://gronnfalk-space.onrender.com/">
+        <a href="https://gronnfalk-space.onrender.com/index.html">
           https://gronnfalk-space.onrender.com/index.html
         </a>
       </td>
