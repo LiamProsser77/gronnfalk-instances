@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>GronnFalk Instances</title>
+  <meta name="description" content="A list of public GronnFalk search instances.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f7f4;
+      color: #172017;
+    }
+
+    header {
+      background: #ffffff;
+      border-bottom: 1px solid #dfe6df;
+      padding: 22px 30px;
+    }
+
+    .header-content {
+      max-width: 1100px;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .logo {
+      width: 58px;
+      height: 58px;
+      object-fit: contain;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: #687268;
+      font-size: 14px;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 45px auto;
+      padding: 0 20px;
+    }
+
+    .hero {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .hero h2 {
+      font-size: 38px;
+      margin: 0 0 10px;
+    }
+
+    .hero p {
+      color: #687268;
+      font-size: 17px;
+      margin: 0;
+    }
+
+    .instance-count {
+      display: inline-block;
+      margin-top: 18px;
+      padding: 8px 14px;
+      border-radius: 20px;
+      background: #e4f4e5;
+      color: #237a32;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .instances {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 22px;
+    }
+
+    .instance {
+      background: #ffffff;
+      border: 1px solid #dfe6df;
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .instance:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    .instance-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 15px;
+    }
+
+    .instance-header h3 {
+      margin: 0;
+      font-size: 18px;
+      word-break: break-word;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+      font-size: 13px;
+      font-weight: bold;
+      color: #237a32;
+    }
+
+    .status-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #36a344;
+    }
+
+    .url {
+      background: #f1f4f1;
+      border-radius: 8px;
+      padding: 10px;
+      font-size: 13px;
+      color: #596259;
+      word-break: break-all;
+      margin-bottom: 20px;
+    }
+
+    .details {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 22px;
+    }
+
+    .detail {
+      background: #f7f9f7;
+      border-radius: 9px;
+      padding: 12px;
+    }
+
+    .detail-label {
+      display: block;
+      color: #788078;
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+
+    .detail-value {
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    .visit {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      background: #39a844;
+      color: white;
+      padding: 11px 15px;
+      border-radius: 9px;
+      font-weight: bold;
+      transition: background 0.2s ease;
+    }
+
+    .visit:hover {
+      background: #2f8e39;
+    }
+
+    footer {
+      text-align: center;
+      color: #788078;
+      font-size: 13px;
+      padding: 35px 20px;
+      margin-top: 30px;
+    }
+
+    footer a {
+      color: #2f8e39;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        padding: 18px;
+      }
+
+      .hero h2 {
+        font-size: 30px;
+      }
+
+      .instances {
+        grid-template-columns: 1fr;
+      }
+
+      .instance-header {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div class="header-content">
+      <img src="gronnfalk1.png" alt="GronnFalk logo" class="logo">
+
+      <div class="brand">
+        <h1>GronnFalk</h1>
+        <p>Instances</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <h2>GronnFalk Instances</h2>
+      <p>Public instances of the GronnFalk search engine.</p>
+
+      <span class="instance-count">
+        2 instances
+      </span>
+    </section>
+
+    <section class="instances">
+
+      <!-- Instance 1 -->
+      <article class="instance">
+
+        <div class="instance-header">
+          <h3>GronnFalk GitHub Pages</h3>
+
+          <span class="status">
+            <span class="status-dot"></span>
+            Online
+          </span>
+        </div>
+
+        <div class="url">
+          https://liamprosser77.github.io/gronnfalk/
+        </div>
+
+        <div class="details">
+
+          <div class="detail">
+            <span class="detail-label">Response Time</span>
+            <span class="detail-value">~1.23 sec</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">JSON</span>
+            <span class="detail-value">Yes</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">Uptime</span>
+            <span class="detail-value">100%</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">Version</span>
+            <span class="detail-value">v0.5.2</span>
+          </div>
+
+        </div>
+
+        <a
+          href="https://liamprosser77.github.io/gronnfalk/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="visit"
+        >
+          Visit Instance
+        </a>
+
+      </article>
+
+
+      <!-- Instance 2 -->
+      <article class="instance">
+
+        <div class="instance-header">
+          <h3>GronnFalk Space</h3>
+
+          <span class="status">
+            <span class="status-dot"></span>
+            Online
+          </span>
+        </div>
+
+        <div class="url">
+          https://gronnfalk-space.onrender.com/index.html
+        </div>
+
+        <div class="details">
+
+          <div class="detail">
+            <span class="detail-label">Response Time</span>
+            <span class="detail-value">~4 sec</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">JSON</span>
+            <span class="detail-value">Yes</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">Uptime</span>
+            <span class="detail-value">70%</span>
+          </div>
+
+          <div class="detail">
+            <span class="detail-label">Version</span>
+            <span class="detail-value">v0.5.2</span>
+          </div>
+
+        </div>
+
+        <a
+          href="https://gronnfalk-space.onrender.com/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="visit"
+        >
+          Visit Instance
+        </a>
+
+      </article>
+
+    </section>
+
+  </main>
+
+  <footer>
+    GronnFalk Instances · Open source search infrastructure
+    <br><br>
+    <a
+      href="https://github.com/LiamProsser77/gronnfalk"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GronnFalk on GitHub
+    </a>
+  </footer>
+
+</body>
+</html>
