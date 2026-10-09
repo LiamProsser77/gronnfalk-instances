@@ -46,7 +46,7 @@
       <td>~1.23 sec</td>
       <td>Yes</td>
       <td>100%</td>
-      <td>Online - GronnFalk v0.5.6</td> 
+      <td>Online - GronnFalk v0.5.7</td> 
     </tr>
 
     
@@ -59,7 +59,7 @@
       <td>~4 sec</td>
       <td>Yes</td>
       <td>70%</td>
-      <td>Online - GronnFalk v0.5.6</td>
+      <td>Online - GronnFalk v0.5.7</td>
     </tr>
   </tbody>
 </table>
