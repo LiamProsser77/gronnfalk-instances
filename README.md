@@ -63,3 +63,7 @@
     </tr>
   </tbody>
 </table>
+
+### Want to add your instance?
+
+To add your instance to this repo and the  <a href="https://liamprosser77.github.io/gronnfalk-instances/"> GronnFalk Instances Website</a>, Fork this repo and open a pull request and the contribtuters will take a look at it when they have time.
