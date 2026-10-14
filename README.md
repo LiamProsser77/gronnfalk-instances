@@ -43,9 +43,9 @@
           https://liamprosser77.github.io/gronnfalk/
         </a>
       </td>
-      <td>~1.23 sec</td>
+      <td>~?</td>
       <td>Yes</td>
-      <td>100%</td>
+      <td>DOWN</td>
       <td>Online - GronnFalk v0.5.8</td> 
     </tr>
 
