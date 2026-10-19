@@ -37,6 +37,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://mathwork-gronn.onrender.com/">Gronn Math</a></td>
+      <td>~1 sec</td>
+      <td>No</td>
+      <td>100%</td>
+      <td>Online - GronnFalk v0.5.9</td>
+    </tr>
+  <tr>
       <td><a href="https://liamprosser77.github.io/gronnfalk/">GronnFalk GitHub Pages</a></td>
       <td>~1.23 sec</td>
       <td>Yes</td>
@@ -50,14 +57,7 @@
       <td>70%</td>
       <td>Online - GronnFalk v0.5.9</td>
     </tr>
-    <tr>
-      <td><a href="https://mathwork-gronn.onrender.com/">Gronn Math</a></td>
-      <td>~4 sec</td>
-      <td>Yes</td>
-      <td>100%</td>
-      <td>Online - GronnFalk v0.5.9</td>
-    </tr>
-  </tbody>
+   </tbody>
 </table>
 
 ### Want to add your instance?
