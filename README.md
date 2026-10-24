@@ -41,21 +41,21 @@
       <td>~1 sec</td>
       <td>No</td>
       <td>100%</td>
-      <td>Online - GronnFalk v0.5.9</td>
+      <td>Online - GronnFalk v0.6.0</td>
     </tr>
   <tr>
       <td><a href="https://liamprosser77.github.io/gronnfalk/">GronnFalk GitHub Pages</a></td>
       <td>~1.23 sec</td>
       <td>Yes</td>
       <td>100%</td>
-      <td>Online - GronnFalk v0.5.9</td>
+      <td>Online - GronnFalk v0.6.0</td>
     </tr>
     <tr>
       <td><a href="https://gronnfalk-space.onrender.com/index.html">GronnFalk Space</a></td>
       <td>~4 sec</td>
       <td>Yes</td>
       <td>70%</td>
-      <td>Online - GronnFalk v0.5.9</td>
+      <td>Online - GronnFalk v0.6.0</td>
     </tr>
    </tbody>
 </table>
