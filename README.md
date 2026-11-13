@@ -57,7 +57,13 @@
       <td>70%</td>
       <td>Online - GronnFalk v0.6.2</td>
     </tr>
-   </tbody>
+   <td><a href="https://zelyonyysokol.onrender.com/">Zelyonyysokol</a></td>
+      <td>~2 sec</td>
+      <td>No</td>
+      <td>100%</td>
+      <td>Online - GronnFalk v0.6.2</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Want to add your instance?
